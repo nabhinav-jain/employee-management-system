@@ -1,0 +1,15 @@
+.addingEmployee{
+
+    display: flex;
+    height: 13vh;
+    width: 20vw;
+    margin: 25px 0 10px 2rem;
+
+}
+#addEmp{
+    width: 80%;
+    height: 80%;
+    outline: none;
+    border: 2px solid blue;
+    border-radius: 15%;
+}
